@@ -1,0 +1,8 @@
+/* static files*/
+li a {
+    color: green;
+}
+
+body {
+    background: pink url("images/background.gif") no-repeat right bottom;
+}
